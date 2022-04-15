@@ -1,0 +1,12 @@
+path: ../datasets/infrared
+train: images/train
+val: images/val
+test: images/val
+
+#classes
+nc: 3
+names: ['person', 'bicycle', 'car']
+
+
+
+
